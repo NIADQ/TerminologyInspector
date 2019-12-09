@@ -1,6 +1,4 @@
-# **공공데이터 용어형식 표준화 정비도구**
-
-## Repository 구성
+# **공공데이터 용어형식 표준화 정비도구 Repository 구성 **
 
 ## * TerminologyInspector 폴더
    * src/application 폴더
