@@ -7,9 +7,9 @@
        1. Main.java            : 메인 클래스
        2. MainController.java  : 메인에서 사용할 클래스
        3. util 폴더
-          - ChangeBizNo.java
-          - ChangeDate.java
-          - ChangeNumeric.java
-          - ChangeTelNo.java
-          - ChangeYn.java
-          - ChangeZipNo.java
+          - ChangeBizNo.java   : 사업자번호 정비
+          - ChangeDate.java    : 날짜 정비
+          - ChangeNumeric.java : 숫자 정비
+          - ChangeTelNo.java   : 전화번호 정비
+          - ChangeYn.java      : 여부 정비
+          - ChangeZipNo.java   : 우편번호 정비
